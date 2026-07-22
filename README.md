@@ -1,10 +1,10 @@
-# 📊 Student Data Preprocessing
+# Student Data Preprocessing
 
 A simple Data Science project that demonstrates the preprocessing stage before building a Machine Learning model. This project focuses on cleaning and transforming student data using Python.
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 Data preprocessing is an essential step in data analysis and machine learning. In this project, the dataset is transformed through several preprocessing techniques, including:
 
@@ -19,7 +19,7 @@ The goal is to prepare the dataset so it can be used efficiently for further ana
 
 ---
 
-## 🗂 Dataset Features
+## Dataset Features
 
 | Feature | Description |
 |---------|-------------|
@@ -35,7 +35,7 @@ The goal is to prepare the dataset so it can be used efficiently for further ana
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -47,23 +47,23 @@ The goal is to prepare the dataset so it can be used efficiently for further ana
 
 ---
 
-## 🚀 Preprocessing Pipeline
+## Preprocessing Pipeline
 
-✔ Read CSV Dataset
+Read CSV Dataset
 
-✔ Encode Categorical Features
+Encode Categorical Features
 
-✔ Normalize Numerical Features
+Normalize Numerical Features
 
-✔ Create New Features
+Create New Features
 
-✔ Correlation Analysis
+Correlation Analysis
 
-✔ Heatmap Visualization
+Heatmap Visualization
 
 ---
 
-## 💻 Code Example
+## Code Example
 
 ### Encoding Categorical Data
 
@@ -94,7 +94,7 @@ df["Produktivitas"] = (
 
 ---
 
-## 📈 Output
+## Output
 
 The preprocessing process produces:
 
@@ -106,7 +106,7 @@ The preprocessing process produces:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Student-Data-Preprocessing/
@@ -121,7 +121,7 @@ Student-Data-Preprocessing/
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I learned how to:
 
@@ -133,4 +133,4 @@ Through this project, I learned how to:
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository and learn from the preprocessing workflow.
+If you find this project useful, feel free to explore the repository and learn from the preprocessing workflow.
